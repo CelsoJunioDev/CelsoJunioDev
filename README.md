@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 <!--
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+ 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> -->
+<!--
 **CelsoJunioDev/CelsoJunioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
