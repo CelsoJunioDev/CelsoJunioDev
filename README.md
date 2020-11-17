@@ -5,9 +5,10 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
 ### 🚧 Linguagens e ferramentas...
 
 <p align="center">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/VSCode.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AndroidStudio.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/IntelliJ.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AdobeXD.png" alt="example badge" style="vertical-align:top margin:6px 4px">
  <br>
 <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
