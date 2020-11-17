@@ -5,7 +5,11 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
 ### 🚧 Linguagens e ferramentas...
 
 <p align="center">
-
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/VSCode.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AndroidStudio.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/IntelliJ.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AdobeXD.png" alt="example badge" style="vertical-align:top margin:6px 4px"> 
+ <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Git.png" alt="example badge" style="vertical-align:top margin:6px 4px">
  <br>
 <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
