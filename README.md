@@ -2,6 +2,19 @@
 
 Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao longo do tempo. Você também pode navegar por todos os projetos que achei interessantes olhando o que [favoritei](https://github.com/CelsoJunioDev?tab=stars).
 
+### 🚧 Linguagens e ferramentas...
+
+<p align="center">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+ <br>
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactJS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Node%20JS.png" alt="example badge" style="vertical-align:top margin:6px 4px ">
+
+</p>
 
 ---
 ### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
@@ -22,19 +35,6 @@ MySQL, Mongo-DB.
 
 <hr>
 
-### 🚧 Linguagens e ferramentas...
-
-<p align="center">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
- <br>
-  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactJS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Node%20JS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-
-</p>
 
 <!--
 Here are some ideas to get you started:
