@@ -1,4 +1,4 @@
-### Fala, Devs e Devas! 👋
+### Fala, pessoal! 👋
 
 Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao longo do tempo. Você também pode navegar por todos os projetos que achei interessantes olhando o que [favoritei](https://github.com/CelsoJunioDev?tab=stars).
 
