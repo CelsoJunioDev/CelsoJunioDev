@@ -29,23 +29,13 @@ MySQL, Mongo-DB.
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
  <br>
-<img src="https://image.slidesharecdn.com/minicurso-kotlin-na-pratica-180912014446/95/aprendendo-kotlin-na-prtica-10-638.jpg?cb=1536716787" alt="example badge" style="vertical-align:top margin:15px 60px" height="65" width="150"> 
- <img src="https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale" alt="example badge" style="vertical-align:top margin:1px 1px" height="80" width="150">
+  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactJS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
 
 </p>
-<!--
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
- 
- <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge"margin:6px 4px">
-  </a> -->
-<!--
-**CelsoJunioDev/CelsoJunioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
