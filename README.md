@@ -11,7 +11,7 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AdobeXD.png" alt="example badge" style="vertical-align:top margin:6px 4px"> 
  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Git.png" alt="example badge" style="vertical-align:top margin:6px 4px">
  <br>
-<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/JavaScript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactNative.png" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactJS.png" alt="example badge" style="vertical-align:top margin:20px 4px">
 <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/NodeJS.png" alt="example badge" style="vertical-align:top margin:15px 6px ">
