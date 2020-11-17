@@ -32,6 +32,7 @@ MySQL, Mongo-DB.
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Javascript.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/React%20Native.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/ReactJS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Node%20JS.png" alt="example badge" style="vertical-align:top margin:6px 4px">
 
 </p>
 
