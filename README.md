@@ -20,7 +20,7 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
 
 ---
 ### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
-MySQL, Mongo-DB.
+MySQL, MongoDB.
 
 ---
 ### 📢 Me encontre em outros lugares...
