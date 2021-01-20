@@ -1,5 +1,5 @@
 <p align="center">
- <img src="header.png" alt="example badge">
+ <img src="header2.svg" alt="example badge">
  </p>
 
 Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao longo do tempo. Você também pode navegar por todos os projetos que achei interessantes olhando o que [favoritei](https://github.com/CelsoJunioDev?tab=stars).
