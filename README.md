@@ -2,18 +2,16 @@
  <img src="header2.svg" alt="example badge">
  </p>
 
-Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao longo do tempo. Você também pode navegar por todos os projetos que achei interessantes olhando o que [favoritei](https://github.com/CelsoJunioDev?tab=stars).
-
 ### 🚧 Linguagens e frameworks...
 <p align="center">
  <img src="languages.svg" alt="example badge">
  </p>
-
 ---
 ### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
 TypeScript. Redux.
-
 ---
+Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao longo do tempo. Você também pode navegar por todos os projetos que achei interessantes olhando o que [favoritei](https://github.com/CelsoJunioDev?tab=stars).
+
 ### 📢 Me encontre em outros lugares...
 <p align="center">
   
