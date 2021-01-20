@@ -17,11 +17,11 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
 <p align="center">
   
   <a href="https://www.linkedin.com/in/celsojuniodev/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="/linkedin.svg" alt="LinkedIn" width="50">
   </a>
 
   <a href="https://www.instagram.com/celsojunioss/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="/instagram.svg" alt="Instagram" width="50">
   </a>
 </p>
 
