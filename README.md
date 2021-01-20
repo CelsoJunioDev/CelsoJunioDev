@@ -6,7 +6,6 @@
 <p align="center">
  <img src="languages.svg" alt="example badge">
  </p>
----
 
 ### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
 TypeScript. Redux.
