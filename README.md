@@ -8,18 +8,10 @@ Aqui você encontrará uma pequena amostra dos projetos que venho construindo ao
 <p align="center">
  <img src="languages.svg" alt="example badge">
  </p>
-<p align="center">
-<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/VSCode.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AndroidStudio.png" alt="example badge" style="vertical-align:top margin:6px 4px">
- <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/IntelliJ.png" alt="example badge" style="vertical-align:top margin:6px 4px">
- <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/AdobeXD.png" alt="example badge" style="vertical-align:top margin:6px 4px"> 
- <img src="https://github.com/CelsoJunioDev/CelsoJunioDev/blob/master/Git.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-
-</p>
 
 ---
 ### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
-MySQL, MongoDB.
+TypeScript. Redux.
 
 ---
 ### 📢 Me encontre em outros lugares...
